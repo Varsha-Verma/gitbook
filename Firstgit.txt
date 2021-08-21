@@ -4,4 +4,3 @@ third commit
 Hello
 First commit from First branch
 Merging
-Git revert on file 1

@@ -4,3 +4,4 @@ third commit
 Hello
 First commit from First branch
 Merging
+Git stash for tracked file
